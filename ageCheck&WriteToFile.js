@@ -1,3 +1,4 @@
+//aneeqa
 exports.ageCheck = (age)=>{
     if(age>=18){
         return 'You are vrek old yoh';
@@ -22,3 +23,4 @@ exports.write = (content)=>{
         
     }
 }
+
